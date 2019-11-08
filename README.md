@@ -25,3 +25,5 @@ Simple command line util for decrypting JWE (JSON Web Encryption) tokens. Takes 
     {
     	"myPayloadField":"myPayloadValue"
     }
+
+<sub>Copyright (c) 2019 Donato Rimenti</sub>
