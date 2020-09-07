@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # jwe-token-decrypter
 
 Simple command line util for decrypting JWE (JSON Web Encryption) tokens. Takes as input the token (compact serialization) and its encrypton key and prints both the token headers and payload.
